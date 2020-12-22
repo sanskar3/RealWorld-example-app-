@@ -1,4 +1,4 @@
-package com.sanskar.api.models
+package com.sanskar.api.models.Responses
 
 
 import com.squareup.moshi.Json
